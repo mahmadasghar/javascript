@@ -1,8 +1,8 @@
 //                  FOR LOOPS
 //      Loops are used for repeating code for many times.
-for(let i = 0; i < 67; i++){
-    console.log(i)
-}
+// for(let i = 0; i < 67; i++){
+//     console.log(i)
+// }
 //  in loops there are three types:
 //      i- index (for(let i = 0;))
 //      [this is index]
@@ -14,9 +14,9 @@ for(let i = 0; i < 67; i++){
 //      [this is increament]
 //          increament is executed everytime the loop body is executed.
 //                       FOR EXAMPLE
- for( let i = 0; i < 55; i++){
-    console.log(i)
- }
+//  for( let i = 0; i < 55; i++){
+//     console.log(i)
+//  }
 //    PROGRAM TO ADD FIRST "n" NATURAL NUMBERS:
 let sum = 0
 let n = prompt("Enter the value of n")
@@ -32,19 +32,19 @@ for( let i = 0;i<n; i++){
 //          for( varible in object){
              // code to be executed
 // }
-let obj = {
-    ahmad : 90,
-    laiba : 100, 
-    faizan : 25,
-    awais : 88,
-    sunain : 12
-}
-for( let a in obj){
-        console.log("Marks of" + a + " are " + obj[a])
-}
+// let obj = {
+//     ahmad : 90,
+//     laiba : 100, 
+//     faizan : 25,
+//     awais : 88,
+//     sunain : 12
+// }
+// for( let a in obj){
+//         console.log("Marks of" + a + " are " + obj[a])
+// }
 //                              FOR OF LOOP
 //  the syntax of for of loop:
 // for(varible of iterable){ // code}
-for( let b of "Ahmad"){
-    console.log(b)
-}
+// for( let b of "Ahmad"){
+//     console.log(b)
+// }
