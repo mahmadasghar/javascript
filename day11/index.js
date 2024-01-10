@@ -33,3 +33,7 @@ console.log(mean(4,5,6,7))*/
 // string can be created by this syntax :
  let string = "ahmad"
  console.log(string)
+ // we can make string in single qouts.
+ //-------------------ECAPE SEQUENCE CHARATER--------------------//
+ let fruit = 'bana\'na'
+ console.log(fruit)
